@@ -1,0 +1,26 @@
+#container {
+    background-color: white;
+    width: 900px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
+
+#header {
+    text-align: center;
+background-color: rgb(255, 255, 255);
+color: rgb(0, 0, 0);
+
+}
+
+#imgctrl {
+margin-left: 200px;
+margin-right: 100px;
+}
+
+#footer {
+    background-color: black;
+    color: white;
+    text-align: right;
+}
